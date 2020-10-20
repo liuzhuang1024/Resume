@@ -12,9 +12,11 @@
 
 ### 技能
 
-|❖  Python Pytorch Keras Linux TensorFlow|❖  OCR|❖  目标检测|
-|:--|:--|:--|
-|❖  图像处理|❖  深度学习相关技术|❖  良好的中英论文阅读能力|
+❖  Python&emsp;Pytorch &emsp;Keras&emsp; Linux &emsp;TensorFlow
+
+❖  OCR&emsp; ❖  目标检测 &emsp; ❖  图像处理
+
+❖  深度学习相关技术&emsp; ❖  良好的中英论文阅读能力
 
 ### 教育背景
 
