@@ -56,7 +56,7 @@ STRP校级项目并和小组成员发表 `SCI` 论文一篇
 
 前期研究方向为文本识别，后期改为文本去模糊，并参与实验室项目熟练的使用 `Ubuntu` 、 `Docker` 等工具，涉及编程语言 `Python` 、 `C/C++` 学习新技能速度较快，适应能力强。能独立完成开源代码的训练，评估，预测等，并能解决常见的 `Bug` 。有一定的复现能力。
 
-在 `ICITE2020` 发表关于车牌识别文章 `Vehicle License Plate Recognition InComplex Scenes` 并被 `EI` 检索。
+在 `ICITE2020` 发表关于车牌识别文章 [Vehicle License Plate Recognition In Complex Scenes](https://ieeexplore.ieee.org/document/9231424) 并被 `EI` 检索。
 
 ### 实习经历
 
